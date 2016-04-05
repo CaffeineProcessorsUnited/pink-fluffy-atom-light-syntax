@@ -1,0 +1,17 @@
+{
+  "name": "pink-fluffy-atom-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light pink fluffy syntax theme",
+  "keywords": [
+    "light",
+    "pink",
+    "fluffy",
+    "syntax"
+  ],
+  "repository": "https://github.com/CaffeineProcessorsUnited/pink-fluffy-atom-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
